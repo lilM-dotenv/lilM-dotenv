@@ -192,11 +192,24 @@ $ git push
 
 <p align="center">
 
+<a href="tel:+212621571718">
+<img src="https://img.shields.io/badge/PHONE-%2B212%20621%20571%20718-000000?style=for-the-badge&logo=phone&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/3qu">
+<img src="https://img.shields.io/badge/DISCORD-_3qu-000000?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/mehdi._.lb/">
+<img src="https://img.shields.io/badge/INSTAGRAM-mehdi._.lb-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 <a href="https://github.com/lilm-dotenv">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-lilm--dotenv-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
+
 
 ---
 
