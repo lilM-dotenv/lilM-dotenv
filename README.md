@@ -47,7 +47,7 @@ under the hood — one bug at a time.
 ### `CORE`
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,bash" />
+<img src="https://skillicons.dev/icons?i=c,bash,vscode,git,github" />
 </p>
 
 ```text
