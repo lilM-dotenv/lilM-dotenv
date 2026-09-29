@@ -35,40 +35,25 @@ $ cat about_me.txt
 C enjoyer.
 Linux enthusiast.
 Cybersecurity curious.
-Developer.
-Video editor.
 
-I like understanding what happens
-BEHIND the abstraction.
-
-If I can break it,
-I'll probably learn how to fix it.
+Currently learning how things work
+under the hood — one bug at a time.
 ```
 
 ---
 
 ## `~/skills`
 
-### `LANGUAGES`
+### `CORE`
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,bash" />
+</p>
 
 ```text
 C              ████████████████████
-Python         ████████████░░░░░░░░
-Bash           ███████████░░░░░░░░░
-JavaScript     ████████░░░░░░░░░░░░
+Shell          ███████████████░░░░░
 ```
-
-### `ENVIRONMENT`
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,fedora,bash,git,github,vscode,c,python" />
-</p>
-
-### `CREATIVE`
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ae,pr" />
-</p>
 
 ---
 
@@ -81,30 +66,66 @@ JavaScript     ████████░░░░░░░░░░░░
                               │
              ┌────────────────┼────────────────┐
              ▼                ▼                ▼
-          LIBFT          GET_NEXT_LINE      FT_PRINTF
+          C BASICS         UNIX/SHELL       GIT
              │                │                │
              └────────────────┼────────────────┘
                               ▼
-                         MINISHELL
+                       PROBLEM SOLVING
                               │
                               ▼
-                         ???.c
+                       LOW-LEVEL C
+                              │
+                              ▼
+                           ???.c
 ```
 
-Currently fighting my way through the **1337 curriculum**.
+### `POOL`
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│  The 1337 pool was my first real dive into intensive         │
+│  programming and problem solving.                            │
+│                                                              │
+│  • C fundamentals                                            │
+│  • Shell & Unix                                               │
+│  • Git & version control                                     │
+│  • Pointers & memory                                         │
+│  • File descriptors                                          │
+│  • Algorithms & logic                                        │
+│  • Debugging under pressure                                  │
+│  • Peer learning                                             │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+```text
+POOL EXPERIENCE
+
+████████████████████████████████████████  100%
+
+STATUS : SURVIVED
+```
+
+---
+
+## `~/currently_learning`
 
 ```text
 [✓] C fundamentals
-[✓] Makefiles
-[✓] Memory management
 [✓] Pointers
+[✓] Memory management
 [✓] File descriptors
-[✓] read / write
-[✓] libft
-[✓] get_next_line
-[ ] ft_printf
-[ ] minishell
-[ ] ??? 
+[✓] Unix / Shell
+[✓] Git
+[✓] Makefiles
+[✓] Debugging
+
+[→] Advanced C
+[→] System programming
+[→] Linux
+[→] Cybersecurity
+[→] Algorithms
 ```
 
 ---
@@ -113,41 +134,17 @@ Currently fighting my way through the **1337 curriculum**.
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
-│ LIBFT                                                        │
 │                                                              │
-│ Rebuilding the foundations of libc from scratch.             │
+│  Most of my repositories are focused on learning C, Unix     │
+│  concepts, memory management and low-level programming.      │
 │                                                              │
-│ language : C                                                 │
-│ status   : completed                                         │
-╰──────────────────────────────────────────────────────────────╯
-
-╭──────────────────────────────────────────────────────────────╮
-│ GET_NEXT_LINE                                                │
+│  I build things from scratch, break them, debug them,        │
+│  then figure out why they broke.                             │
 │                                                              │
-│ Reading files one line at a time without losing my mind.    │
-│                                                              │
-│ language : C                                                 │
-│ status   : completed                                         │
-╰──────────────────────────────────────────────────────────────╯
-
-╭──────────────────────────────────────────────────────────────╮
-│ FT_PRINTF                                                    │
-│                                                              │
-│ printf.exe but I have to build it myself.                   │
-│                                                              │
-│ language : C                                                 │
-│ status   : loading...                                        │
-╰──────────────────────────────────────────────────────────────╯
-
-╭──────────────────────────────────────────────────────────────╮
-│ MINISHELL                                                     │
-│                                                              │
-│ Because apparently one shell isn't enough.                   │
-│                                                              │
-│ language : C                                                 │
-│ status   : coming soon                                       │
 ╰──────────────────────────────────────────────────────────────╯
 ```
+
+> `More projects coming as I progress through 1337.`
 
 ---
 
@@ -169,24 +166,6 @@ Currently fighting my way through the **1337 curriculum**.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lilm-dotenv&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
 </p>
-
----
-
-## `~/interests`
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  > LOW LEVEL PROGRAMMING                    │
-│  > CYBERSECURITY                            │
-│  > LINUX                                    │
-│  > SYSTEMS                                  │
-│  > AI / SOFTWARE DEVELOPMENT                │
-│  > VIDEO EDITING                            │
-│  > MOTION GRAPHICS                           │
-│                                             │
-└─────────────────────────────────────────────┘
-```
 
 ---
 
@@ -232,7 +211,7 @@ $ git push
 <p align="center">
 
 ```text
-01001100 01001001 01001100 01001101
+01001100 01001001 01001101 01001101
 ```
 
 <sub>built with C, Linux, caffeine & questionable debugging decisions</sub>
