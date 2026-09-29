@@ -161,12 +161,6 @@ STATUS : SURVIVED
 
 ---
 
-## `~/activity`
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lilm-dotenv&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=888888&icon_color=ffffff" />
-</p>
----
-
 ## `~/philosophy`
 
 ```text
